@@ -16,6 +16,6 @@ Input Parameters:\
 • n = Number of students in the class\
 • h<sub>i,j</sub> = Happiness student i and j give each other\
 • s<sub>i,j</sub> = Stress student i and j induce on each other\
-• S<sub>max</sub>  = Maximum total stress across all breakout rooms
+• S<sub>max</sub> = Maximum total stress across all breakout rooms
 
 Main code can be found in solver.py.
